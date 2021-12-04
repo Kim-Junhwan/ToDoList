@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="reset.css" />
+    <link href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" rel="stylesheet" />
+    <link rel="stylesheet" href="style.css" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+    <title>오늘의 할일</title>
+  </head>
+  <body>
+    <!-- main contents -->
+
+    <div id="cont">
+      <h1 class="js-date"></h1>
+      <div class="glass">
+        
+         <div class="content">
+        
+          <h2>To-Do-List</h2>
+          <ul class="js-toDoList items"></ul>
+        </div>
+      </div>
+      <form class="js-toDoForm form todoform">
+        <input type="text" id="todoInput" placeholder="여기에 할 일을 작성합니다." />
+      <br>
+
+      
+        <input type="text" id="listsave" class="save" value="리스트 추가"/><br><br><br>
+        <button id="logout" >로그아웃</button>
+    </div>
+
+    <!-- scripts -->
+    <script src="clock.js"></script>  
+    <script type="module" src="todo.js"></script>
+    <script src="bg.js"></script>
+  
+  </body>
+</html>
