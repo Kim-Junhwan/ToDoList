@@ -46,7 +46,7 @@ Lamda
 
 ----------------------------------------
 ## D. 프로젝트 개발 결과물 소개
-<img src="https://user-images.githubusercontent.com/58679737/144733965-0723d635-887a-4ab7-b999-210a92da9d9c.png" width="600" height="400"/>
+<img src="https://user-images.githubusercontent.com/58679737/144733965-0723d635-887a-4ab7-b999-210a92da9d9c.png" width="800" height="600"/>
 인터넷이 연결되어있다면, 다른환경에서도 자신의 todolist에 접속, 조회, 추가, 수정, 삭제를 할 수 있다.
 
 ----------------------------------------
