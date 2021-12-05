@@ -1,5 +1,5 @@
 # AWS lambda를 활용한 To Do List
-<img src= lambda.jpg widh = 150 height = 150>
+![lambda](https://user-images.githubusercontent.com/58679737/144734005-2c98b7fe-adb6-4bee-b79e-7fea4fa8e965.jpg)
 
 --------------------------------------
 ## B. 멤버 이름 및 각자 담당한 파트 소개
@@ -71,14 +71,14 @@ Lamda
 * **이미지 클릭시 커짐**
 
 
-<img src= 1.PNG  widh = 300 height = 300>
+![1](https://user-images.githubusercontent.com/58679737/144734013-e783126e-c68d-4d22-892d-3125a30585d1.PNG)
 
 
 > 웹 구글 로그인
 
 
 
-<img src= 2.PNG widh = 300 height = 300>
+![2](https://user-images.githubusercontent.com/58679737/144734023-802618f7-9dd0-4686-a01c-8741899b58bd.PNG)
 
 
 
@@ -86,40 +86,40 @@ Lamda
 
 
 
-<img src= 4.PNG widh = 300 height = 300>
+![4](https://user-images.githubusercontent.com/58679737/144734033-d7fb7d7d-b397-40db-a1be-809f5f388aa3.PNG)
 
 
 > 서로 연동이 가능하다
 
 
-<img src= 5.PNG widh = 300 height = 300>
+![5](https://user-images.githubusercontent.com/58679737/144734035-ff0bf5d2-686e-4efb-ac60-0d92ded73ea2.PNG)
 
 > 할일 삭제
 
 
-<img src= 6.PNG widh = 300 height = 300>
+![6](https://user-images.githubusercontent.com/58679737/144734039-53103f22-7898-483c-890d-0f634bbc4184.PNG)
 
 > 웹에서 할 일이 삭제된다
 
 
-<img src= 7.PNG widh = 300 height = 300>
+![7](https://user-images.githubusercontent.com/58679737/144734042-c733788e-ee2c-4b05-ab6d-475711b21b13.PNG)
 
 > 웹에서 할 일을 추가한다
 
 
-<img src= 8.PNG widh = 300 height = 300>
+![8](https://user-images.githubusercontent.com/58679737/144734045-4356a8aa-5d8c-4354-a5c3-88a3a0d5e1bf.PNG)
 
 > ios에 할 일이 추가된다
 
-<img src= 9.PNG widh = 300 height = 300>
+![9](https://user-images.githubusercontent.com/58679737/144734048-a880b0ff-def0-4227-b1fd-814f09932235.PNG)
 
 > ios에서 할 일을 추가한다
 
-<img src= 10.PNG widh = 300 height = 300>
+![10](https://user-images.githubusercontent.com/58679737/144734051-7d7943a0-07b2-44e7-a80e-18042eed3895.PNG)
 
 > 웹에 할 일이 추가 된다.
  
-<img src= 11.PNG widh = 300 height = 300>
+![11](https://user-images.githubusercontent.com/58679737/144734055-a35540cb-10c9-4495-9141-ace555488783.PNG)
 
 > 사용 종료후 로그아웃 화면
 
