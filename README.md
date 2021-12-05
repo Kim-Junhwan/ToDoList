@@ -1,5 +1,5 @@
 # AWS lambda를 활용한 To Do List
-![lambda](https://user-images.githubusercontent.com/58679737/144734005-2c98b7fe-adb6-4bee-b79e-7fea4fa8e965.jpg)
+![lambda](https://user-images.githubusercontent.com/58679737/144734005-2c98b7fe-adb6-4bee-b79e-7fea4fa8e965.jpg width="200" height="200"/)
 
 --------------------------------------
 ## B. 멤버 이름 및 각자 담당한 파트 소개
